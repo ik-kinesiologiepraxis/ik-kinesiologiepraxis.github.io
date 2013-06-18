@@ -24,7 +24,7 @@
       <h1>
 <!-- TOO MUCH.   <div style="background-image:url('img/logo-scan.png_3-crop-svg-rc1.resized.png'); width:200px; max-width: 100%; background-position:center; float:left;"><img src="img/logo-scan.png_3-crop-svg-rc1.png" style="height:190px; width:200px; max-width: 100%;" /></a></div>&nbsp;  -->
 
-<h1><img src="img/logo-scan.png_3-crop-svg-rc1.resized.png" align="middle">&nbsp;&nbsp;<small>Kinesiologie am See</small></h1>
+<h1><img src="img/logo-scan.png_3-crop-svg-rc1.resized.png" align="middle">&nbsp;<small>Kinesiologie am See</small></h1>
       <hr />
     </div>
   </div>
@@ -66,10 +66,14 @@
 
       <!-- Using only the large-block-grid -->
       <ul class="large-block-grid-2">
-        <li><img src="../img/demos/demo1.png"></li>
-        <li><img src="../img/demos/demo2.png"></li>
-        <li><img src="../img/demos/demo3.png"></li>
-        <li><img src="../img/demos/demo4.png"></li>
+        <li><img src="img/front/14 Seinen eigenen Weg gehen_Schrift Blau.resized.jpg"></li>
+        <li><img src="img/front/16 Verwurzelt zu sein_schrift gruen.resized.jpg"></li>
+        <li><img src="img/front/27 In seiner Mitte zu sein_schrift gelb.resized.jpg"></li>
+        <li><img src="img/front/73 Sich frei fuehlen_schrift orangerot.resized.jpg"></li>
+        <li><img src="img/front/79 In sich aufzubluehen_schrift gruen.resized.jpg"></li>
+        <li><img src="img/front/03 Das Negative loszulassen_schrift weiss.resized.jpg"></li>
+        <li><img src="img/front/20 Sein Leben selbst gestalten_schrift gelb.resized.jpg"></li>
+        <li><img src="img/front/82 An sich glauben_schrift violett.resized.jpg"></li>
       </ul>
 
     </div>
