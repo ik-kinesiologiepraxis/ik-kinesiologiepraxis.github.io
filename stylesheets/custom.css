@@ -2,3 +2,28 @@
 aside {
   background: #12aba1;
 }
+
+/* line 5, ../sass/custom.scss */
+.image {
+  position: relative;
+  width: 100%;
+  /* for IE 6 */
+}
+
+/* line 10, ../sass/custom.scss */
+.overImage {
+  position: absolute;
+  top: 95px;
+  left: 20px;
+  width: 100%;
+}
+
+/* line 17, ../sass/custom.scss */
+.blue {
+  color: blue;
+}
+
+/* line 20, ../sass/custom.scss */
+.green {
+  color: green;
+}

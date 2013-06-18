@@ -68,9 +68,9 @@
     <div class="large-9 columns" role="content">
 
       <!-- Using only the large-block-grid -->
-      <ul class="large-block-grid-2 small-block-grid-2">
-        <li><img src="img/front/14 Seinen eigenen Weg gehen_Schrift Blau.resized.jpg"></li>
-        <li><img src="img/front/16 Verwurzelt zu sein_schrift gruen.resized.jpg"></li>
+      <ul class="large-block-grid-2 small-block-grid-1">
+        <li><img src="img/front/14 Seinen eigenen Weg gehen_Schrift Blau.resized.jpg"><h4 class="overImage blue">Seinen eigenen Weg gehen</h4></li>
+        <li><img src="img/front/16 Verwurzelt zu sein_schrift gruen.resized.jpg"><h4 class="overImage green">Verwurzelt zu sein</h4></li>
         <li><img src="img/front/27 In seiner Mitte zu sein_schrift gelb.resized.jpg"></li>
         <li><img src="img/front/73 Sich frei fuehlen_schrift orangerot.resized.jpg"></li>
         <li><img src="img/front/79 In sich aufzubluehen_schrift gruen.resized.jpg"></li>

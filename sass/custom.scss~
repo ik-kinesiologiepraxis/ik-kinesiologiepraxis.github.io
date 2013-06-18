@@ -9,7 +9,7 @@ aside {
 
 .overImage {
  position: absolute; 
- top: 95px; 
+ top: 20px; 
  left: 20px; 
  width: 100%; 
 }
