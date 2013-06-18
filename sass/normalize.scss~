@@ -73,10 +73,6 @@ html {
     -webkit-text-size-adjust: 100%; /* 4 */
 }
 
-aside {
-    background: #fff;
-}
-
 /**
  * Remove default margin.
  */
