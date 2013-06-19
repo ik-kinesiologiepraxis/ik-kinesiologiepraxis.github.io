@@ -10,7 +10,7 @@
 }
 
 @font-face {
-    font-family: 'GabrielRegular';
+    font-family: 'GabrielaRegular';
     src: url('fonts/gabriela/Gabriela-Regular.woff') format('woff'),
          url('fonts/gabriela/Gabriela-Regular.ttf') format('truetype');
     font-weight: normal;
@@ -18,8 +18,14 @@
 }
 
 aside {
-    background: #12aba1;
+  background: #12aba1;
 }
+
+/*
+h1 small {
+  font-family: "GabrielaRegular", "Times New Roman", Times, serif;
+}
+*/
 
 .image {
   position: relative; 
@@ -28,15 +34,17 @@ aside {
 
 .overImage {
  position: absolute; 
- top: 160px; 
- left: 20px; 
- width: 100%; 
+ bottom: 10px; 
+ right: 20px; 
+ width: 90%; 
 }
 
 .overImage span { 
    /* color: white; */
-   font: bold 24px/45px 'SailRegular', Arial, sans-serif;
+   font-family: 'SailRegular', "Times New Roman", Times, serif;
+   font-weight: normal;
    letter-spacing: -1px;
+   line-height: 1.67;
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.6);
    padding: 10px; 

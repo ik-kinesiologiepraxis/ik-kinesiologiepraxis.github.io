@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
-  <title>ik-kinesiologiepraxis.ch | Kinesiologie am See</title>
+  <title>IK-Kinesiologiepraxis</title>
 
   <link rel="stylesheet" href="stylesheets/normalize.css" />
   
@@ -25,7 +25,7 @@
     <div class="large-12 columns">
       <a href="/">
         <h1>
-          <img src="img/logo-scan.png_3-crop-svg-rc1.resized.png" align="middle">&nbsp;<small>Kinesiologie am See</small>
+          <img src="img/logo-scan.png_3-crop-svg-rc1.resized.png" align="middle">&nbsp;<small>IK-Kinesiologiepraxis</small>
         </h1>
       </a>
       <hr />
@@ -73,65 +73,65 @@
         <li>
           <div class="image">
             <img src="img/front/14 Seinen eigenen Weg gehen_Schrift Blau.resized.jpg">
-            <h4 class="overImage blue">
+            <h2 class="overImage blue">
               <span>Seinen eigenen Weg gehen</span>
-            </h4>
+            </h2>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/16 Verwurzelt zu sein_schrift gruen.resized.jpg">
-            <h4 class="overImage green">
+            <h2 class="overImage green">
               <span>Verwurzelt zu sein</span>
-            </h4>
+            </h2>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/27 In seiner Mitte zu sein_schrift gelb.resized.jpg">
-            <h4 class="overImage yellow">
+            <h2 class="overImage yellow">
               <span>In seiner Mitte zu sein</span>
-            </h4>
+            </h2>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/73 Sich frei fuehlen_schrift orangerot.resized.jpg">
-            <h4 class="overImage orangeRed">
+            <h2 class="overImage orangeRed">
               <span>Sich frei fühlen</span>
-            </h4>
+            </h2>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/79 In sich aufzubluehen_schrift gruen.resized.jpg">
-            <h4 class="overImage green">
+            <h2 class="overImage green">
               <span>In sich aufzublühen</span>
-            </h4>
+            </h2>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/03 Das Negative loszulassen_schrift weiss.resized.jpg">
-            <h4 class="overImage white">
+            <h3 class="overImage white">
               <span>Das Negative loszulassen</span>
-            </h4>
+            </h3>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/20 Sein Leben selbst gestalten_schrift gelb.resized.jpg">
-            <h4 class="overImage yellow">
+            <h2 class="overImage yellow">
               <span>Sein Leben selbst gestalten</span>
-            </h4>
+            </h2>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/82 An sich glauben_schrift violett.resized.jpg">
-            <h4 class="overImage violet">
+            <h2 class="overImage violet">
               <span>An sich glauben</span>
-            </h4>
+            </h2>
           </div>
         </li>
       </ul>
@@ -156,7 +156,7 @@
         </div>
         <div class="large-6 columns">
           <ul class="inline-list right">
-            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Webdesign und Hosting von sinndrin.ch</a></li>
           </ul>
         </div>
       </div>

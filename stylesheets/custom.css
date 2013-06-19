@@ -18,58 +18,65 @@ aside {
   background: #12aba1;
 }
 
-/* line 24, ../sass/custom.scss */
+/*
+h1 small {
+  font-family: "GabrielaRegular", "Times New Roman", Times, serif;
+}
+*/
+/* line 30, ../sass/custom.scss */
 .image {
   position: relative;
   width: 100%;
   /* for IE 6 */
 }
 
-/* line 29, ../sass/custom.scss */
+/* line 35, ../sass/custom.scss */
 .overImage {
   position: absolute;
-  top: 160px;
+  bottom: 10px;
   left: 20px;
-  width: 100%;
+  width: 90%;
 }
 
-/* line 36, ../sass/custom.scss */
+/* line 42, ../sass/custom.scss */
 .overImage span {
   /* color: white; */
-  font: bold 24px/45px 'SailRegular', Arial, sans-serif;
+  font-family: 'SailRegular', "Times New Roman", Times, serif;
+  font-weight: normal;
   letter-spacing: -1px;
+  line-height: 1.67;
   background: black;
   /* fallback color */
   background: rgba(0, 0, 0, 0.6);
   padding: 10px;
 }
 
-/* line 45, ../sass/custom.scss */
+/* line 53, ../sass/custom.scss */
 .blue {
   color: LightBlue;
 }
 
-/* line 48, ../sass/custom.scss */
+/* line 56, ../sass/custom.scss */
 .green {
   color: LightGreen;
 }
 
-/* line 51, ../sass/custom.scss */
+/* line 59, ../sass/custom.scss */
 .yellow {
   color: yellow;
 }
 
-/* line 54, ../sass/custom.scss */
+/* line 62, ../sass/custom.scss */
 .white {
   color: white;
 }
 
-/* line 57, ../sass/custom.scss */
+/* line 65, ../sass/custom.scss */
 .orangeRed {
   color: OrangeRed;
 }
 
-/* line 60, ../sass/custom.scss */
+/* line 68, ../sass/custom.scss */
 .violet {
   color: violet;
 }

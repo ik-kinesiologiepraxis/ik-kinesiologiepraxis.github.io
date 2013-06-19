@@ -40,7 +40,7 @@ $body-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 //// Colors
 
 $primary-color: #29ffe2;
-// $secondary-color: #e9e9e9;
+$secondary-color: #12aba1;
 // $alert-color: #c60f13;
 // $success-color: #5da423;
 
@@ -114,7 +114,7 @@ $primary-color: #29ffe2;
 
 //// Heading font styles
 
-$header-font-family: "SailRegular", "Times New Roman", Times, serif;
+$header-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 // $header-font-weight: bold;
 // $header-font-style: normal;
 // $header-font-color: #222;
@@ -170,9 +170,9 @@ $header-font-family: "SailRegular", "Times New Roman", Times, serif;
 
 //// <hr> element
 
-// $hr-border-width: 1px;
+//$hr-border-width: 1px;
 // $hr-border-style: solid;
-// $hr-border-color: #ddd;
+$hr-border-color: $secondary-color;
 // $hr-margin: emCalc(20px);
 
 //// Lists
