@@ -1,29 +1,68 @@
-/* line 1, ../sass/custom.scss */
+@font-face {
+  font-family: 'SailRegular';
+  src: url("fonts/sali/Sail-Regular-webfont.eot");
+  src: url("fonts/sali/Sail-Regular-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/sali/Sail-Regular-webfont.woff") format("woff"), url("fonts/sali/Sail-Regular-webfont.ttf") format("truetype"), url("fonts/sali/Sail-Regular-webfont.svg#SailRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* line 13, ../sass/custom.scss */
 aside {
   background: #12aba1;
 }
 
-/* line 5, ../sass/custom.scss */
+/* line 17, ../sass/custom.scss */
 .image {
   position: relative;
   width: 100%;
   /* for IE 6 */
 }
 
-/* line 10, ../sass/custom.scss */
+/* line 22, ../sass/custom.scss */
 .overImage {
   position: absolute;
-  top: 95px;
+  top: 160px;
   left: 20px;
   width: 100%;
 }
 
-/* line 17, ../sass/custom.scss */
-.blue {
-  color: blue;
+/* line 29, ../sass/custom.scss */
+.overImage span {
+  /* color: white; */
+  font: bold 24px/45px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: black;
+  /* fallback color */
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px;
 }
 
-/* line 20, ../sass/custom.scss */
+/* line 38, ../sass/custom.scss */
+.blue {
+  color: LightBlue;
+}
+
+/* line 41, ../sass/custom.scss */
 .green {
-  color: green;
+  color: LightGreen;
+}
+
+/* line 44, ../sass/custom.scss */
+.yellow {
+  color: yellow;
+}
+
+/* line 47, ../sass/custom.scss */
+.white {
+  color: white;
+}
+
+/* line 50, ../sass/custom.scss */
+.orangeRed {
+  color: OrangeRed;
+}
+
+/* line 53, ../sass/custom.scss */
+.violet {
+  color: violet;
 }

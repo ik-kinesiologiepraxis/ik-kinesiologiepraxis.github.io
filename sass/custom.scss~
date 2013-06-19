@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'SailRegular';
+    src: url('fonts/sali/Sail-Regular-webfont.eot');
+    src: url('fonts/sali/Sail-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sali/Sail-Regular-webfont.woff') format('woff'),
+         url('fonts/sali/Sail-Regular-webfont.ttf') format('truetype'),
+         url('fonts/sali/Sail-Regular-webfont.svg#SailRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 aside {
     background: #12aba1;
 }
@@ -9,14 +21,35 @@ aside {
 
 .overImage {
  position: absolute; 
- top: 20px; 
+ top: 160px; 
  left: 20px; 
  width: 100%; 
 }
 
+.overImage span { 
+   /* color: white; */
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.6);
+   padding: 10px; 
+}
+
 .blue {
-  color:blue;
+  color:LightBlue;
 }
 .green {
-  color:green;
+  color:LightGreen;
+}
+.yellow {
+  color:yellow;
+}
+.white {
+  color:white;
+}
+.orangeRed {
+  color:OrangeRed;
+}
+.violet {
+  color:violet;
 }

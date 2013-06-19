@@ -102,7 +102,7 @@ $primary-color: #29ffe2;
 //// Maximum number of block grid elements per row
 
 // $block-grid-elements: 12;
-$block-grid-default-spacing: 20px;
+// $block-grid-default-spacing: 20px;
 
 //// Enables media queries for block-grid classes. Set to false if writing semantic HTML.
 
@@ -114,7 +114,7 @@ $block-grid-default-spacing: 20px;
 
 //// Heading font styles
 
-// $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+$header-font-family: SailRegular, "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $header-font-weight: bold;
 // $header-font-style: normal;
 // $header-font-color: #222;
