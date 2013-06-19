@@ -6,19 +6,26 @@
   font-style: normal;
 }
 
-/* line 13, ../sass/custom.scss */
+@font-face {
+  font-family: 'GabrielaRegular';
+  src: url("fonts/gabriela/Gabriela-Regular.woff") format("woff"), url("fonts/gabriela/Gabriela-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* line 20, ../sass/custom.scss */
 aside {
   background: #12aba1;
 }
 
-/* line 17, ../sass/custom.scss */
+/* line 24, ../sass/custom.scss */
 .image {
   position: relative;
   width: 100%;
   /* for IE 6 */
 }
 
-/* line 22, ../sass/custom.scss */
+/* line 29, ../sass/custom.scss */
 .overImage {
   position: absolute;
   top: 160px;
@@ -26,10 +33,10 @@ aside {
   width: 100%;
 }
 
-/* line 29, ../sass/custom.scss */
+/* line 36, ../sass/custom.scss */
 .overImage span {
   /* color: white; */
-  font: bold 24px/45px Helvetica, Sans-Serif;
+  font: bold 24px/45px 'SailRegular', Arial, sans-serif;
   letter-spacing: -1px;
   background: black;
   /* fallback color */
@@ -37,32 +44,32 @@ aside {
   padding: 10px;
 }
 
-/* line 38, ../sass/custom.scss */
+/* line 45, ../sass/custom.scss */
 .blue {
   color: LightBlue;
 }
 
-/* line 41, ../sass/custom.scss */
+/* line 48, ../sass/custom.scss */
 .green {
   color: LightGreen;
 }
 
-/* line 44, ../sass/custom.scss */
+/* line 51, ../sass/custom.scss */
 .yellow {
   color: yellow;
 }
 
-/* line 47, ../sass/custom.scss */
+/* line 54, ../sass/custom.scss */
 .white {
   color: white;
 }
 
-/* line 50, ../sass/custom.scss */
+/* line 57, ../sass/custom.scss */
 .orangeRed {
   color: OrangeRed;
 }
 
-/* line 53, ../sass/custom.scss */
+/* line 60, ../sass/custom.scss */
 .violet {
   color: violet;
 }
