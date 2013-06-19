@@ -17,8 +17,20 @@
     font-style: normal;
 }
 
-aside {
+a, a:hover, a:active, a:focus {
+  color: #007375;
+}
+
+aside, aside a, aside a:hover, aside a:active, aside a:focus  {
   background: #12aba1;
+  color: #29ffe2;
+}
+
+.vcard {
+    border: 0px solid #DDDDDD;
+    display: inline-block;
+    margin: 0 0 1.25em;
+    padding: 0.625em 0;
 }
 
 /*

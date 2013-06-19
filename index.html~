@@ -53,14 +53,17 @@
         <li><a href="#">Lage/ Öffnungszeiten</a></li>
         <li><a href="#">Kosten/ Krankenkassenanerkennung</a></li>
       </ul>
+      <h5 class="hide-for-small">Kontatk</h5>
+      <ul class="vcard hide-for-small">
+        <li class="fn">Sara Haab</li>
+        <li class="company">IK-Kinesiologiepraxis</li>
+        <li class="street-address">Strandbadstrasse 15 / Seegüetli</li>
+        <li><span class="zip">8810</span>&nbsp;<span class="state">Horgen</span></li>
+        <li class="phone">079 / 710 11 12</li>
+        <li class="email show-for-medium-down"><a href="mailto:info@ik-kinesiologiepraxis.ch"><small>info@ik&#8209;kinesiologiepraxis.ch</small></a></li>
+        <li class="email show-for-large-up"><a href="mailto:info@ik-kinesiologiepraxis.ch">info@ik&#8209;kinesiologiepraxis.ch</a></li>
+      </ul>
 
-<!--
-     <div class="panel">
-        <h5>Featured</h5>
-        <p>Pork drumstick turkey fugiat. Tri-tip elit turducken pork chop in. Swine short ribs meatball irure bacon nulla pork belly cupidatat meatloaf cow.</p>
-        <a href="#">Read More &rarr;</a>
-      </div>
---> 
     </aside>
 
     <!-- End Sidebar -->
@@ -73,41 +76,41 @@
         <li>
           <div class="image">
             <img src="img/front/14 Seinen eigenen Weg gehen_Schrift Blau.resized.jpg">
-            <h2 class="overImage blue">
+            <h3 class="overImage blue">
               <span>Seinen eigenen Weg gehen</span>
-            </h2>
+            </h3>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/16 Verwurzelt zu sein_schrift gruen.resized.jpg">
-            <h2 class="overImage green">
+            <h3 class="overImage green">
               <span>Verwurzelt zu sein</span>
-            </h2>
+            </h3>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/27 In seiner Mitte zu sein_schrift gelb.resized.jpg">
-            <h2 class="overImage yellow">
+            <h3 class="overImage yellow">
               <span>In seiner Mitte zu sein</span>
-            </h2>
+            </h3>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/73 Sich frei fuehlen_schrift orangerot.resized.jpg">
-            <h2 class="overImage orangeRed">
+            <h3 class="overImage orangeRed">
               <span>Sich frei fühlen</span>
-            </h2>
+            </h3>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/79 In sich aufzubluehen_schrift gruen.resized.jpg">
-            <h2 class="overImage green">
+            <h3 class="overImage green">
               <span>In sich aufzublühen</span>
-            </h2>
+            </h3>
           </div>
         </li>
         <li>
@@ -121,17 +124,17 @@
         <li>
           <div class="image">
             <img src="img/front/20 Sein Leben selbst gestalten_schrift gelb.resized.jpg">
-            <h2 class="overImage yellow">
+            <h3 class="overImage yellow">
               <span>Sein Leben selbst gestalten</span>
-            </h2>
+            </h3>
           </div>
         </li>
         <li>
           <div class="image">
             <img src="img/front/82 An sich glauben_schrift violett.resized.jpg">
-            <h2 class="overImage violet">
+            <h3 class="overImage violet">
               <span>An sich glauben</span>
-            </h2>
+            </h3>
           </div>
         </li>
       </ul>
@@ -152,11 +155,11 @@
       <hr />
       <div class="row">
         <div class="large-6 columns">
-          <p>&copy; Copyright Sara Haab.</p>
+          <p>&copy; 2013 Copyright Sara Haab.</p>
         </div>
         <div class="large-6 columns">
           <ul class="inline-list right">
-            <li><a href="#">Webdesign und Hosting von sinndrin.ch</a></li>
+            <li><a href="http://fairphone.sinndrin.ch">Webdesign und Hosting von sinndrin.ch</a></li>
           </ul>
         </div>
       </div>

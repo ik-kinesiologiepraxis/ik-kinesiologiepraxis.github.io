@@ -17,8 +17,20 @@
     font-style: normal;
 }
 
-aside {
+a, a:hover, a:active, a:focus {
+  color: #007375;
+}
+
+aside, aside a  {
   background: #12aba1;
+  color: #29ffe2;
+}
+
+.vcard {
+    border: 0px solid #DDDDDD;
+    display: inline-block;
+    margin: 0 0 1.25em;
+    padding: 0.625em 0;
 }
 
 /*
@@ -35,7 +47,7 @@ h1 small {
 .overImage {
  position: absolute; 
  bottom: 10px; 
- right: 20px; 
+ left: 20px; 
  width: 90%; 
 }
 
