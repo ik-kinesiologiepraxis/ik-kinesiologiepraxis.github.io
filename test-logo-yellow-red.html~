@@ -21,11 +21,16 @@
 <body>
 <!-- Nav Bar -->
 
+
+
+<!-- LOGO TESTING -->
+
+
   <div class="row">
     <div class="large-9 columns">
       <a href="/">
         <h1>
-          <img src="img/logo-scan.png_3-crop-svg-rc1.resized.png" align="middle">&nbsp;<small>IK-Kinesiologiepraxis</small>
+          <img src="img/logo-scan.png_3-crop-svg-rc2-yellow-red.resized.png" align="middle">&nbsp;<small>IK-Kinesiologiepraxis</small>
         </h1>
       </a>
       <hr />
@@ -35,16 +40,18 @@
 
     <div class="large-3 columns">
       <p><h3>Logofarben Test</h3></p>
+      <a href="index.html" class="button round secondary expand">
+        GELB
+      </a>
       <a href="test-logo-red.html" class="button round secondary expand">
         ROT
-      </a>
-      <a href="test-logo-yellow-red.html" class="button round secondary expand">
-        GELB-ROT
       </a>
     </div>
 
 <!-- End LOGO TESTING -->
   </div>
+
+<!-- End LOGO TESTING -->
 
   <!-- End Nav -->
 
