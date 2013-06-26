@@ -982,7 +982,7 @@ $hr-border-color: $secondary-color;
 
 //// Link styles
 
-$side-nav-link-color: #007375;
+$side-nav-link-color: $primary-color;
 // $side-nav-link-color-active: lighten(#000, 30%);
 // $side-nav-font-size: emCalc(14px);
 // $side-nav-font-weight: bold;

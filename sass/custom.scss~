@@ -18,12 +18,12 @@
 }
 
 a, a:hover, a:active, a:focus {
-  color: #007375;
+  color: #2bfefe;
 }
 
-aside, aside a  {
-  background: #12aba1;
-  color: #29ffe2;
+aside, aside a, aside a:hover, aside a:active, aside a:focus  {
+  background: #0039ff;
+  color: #2bfefe;
 }
 
 .vcard {
