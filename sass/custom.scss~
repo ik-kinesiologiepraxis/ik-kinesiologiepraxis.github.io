@@ -18,7 +18,7 @@
 }
 
 a, a:hover, a:active, a:focus {
-  color: #2bfefe;
+  color: #007375;
 }
 
 aside, aside a, aside a:hover, aside a:active, aside a:focus  {
