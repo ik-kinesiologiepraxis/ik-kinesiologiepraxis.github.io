@@ -23,8 +23,8 @@ $em-base: 16px !default;
 
 //// Various global styles
 
-$body-bg: #29ffe2;
-$body-font-color: #007375;
+$body-bg: #AA6EFF;
+$body-font-color: #8E3EFE;
 $body-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
@@ -39,8 +39,8 @@ $body-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 
 //// Colors
 
-$primary-color: #2bfefe;
-$secondary-color: #1541A5;
+$primary-color: #AA6EFF;
+$secondary-color: #8E3EFE;
 // $alert-color: #c60f13;
 // $success-color: #5da423;
 
