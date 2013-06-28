@@ -117,7 +117,7 @@ $secondary-color: #8E3EFE;
 $header-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 // $header-font-weight: bold;
 // $header-font-style: normal;
-// $header-font-color: #222;
+$header-font-color: #8E3EFE;
 // $header-line-height: 1.4;
 // $header-top-margin: .2em;
 // $header-bottom-margin: .5em;
