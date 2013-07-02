@@ -17,12 +17,14 @@
     font-style: normal;
 }
 
+@import "settings";
+
 a, a:hover, a:active, a:focus {
-  color: #E7D6FF;
+  color: $secondary-color;
 }
 
-aside, aside a, aside a:hover, aside a:active, aside a:focus  {
-  background: #8E3EFE;
+aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
+  background: $secondary-color;
   color: #E7D6FF;
 }
 

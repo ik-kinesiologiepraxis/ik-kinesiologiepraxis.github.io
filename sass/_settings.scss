@@ -21,10 +21,18 @@ $em-base: 16px !default;
   @return $pxWidth / $em-base * 1em;
 }
 
+//// Colors
+
+$primary-color: #BB8AFF;
+$secondary-color: #8E3EFE;
+$tertiary-color: #E7D6FF;
+// $alert-color: #c60f13;
+// $success-color: #5da423;
+
 //// Various global styles
 
-$body-bg: #AA6EFF;
-$body-font-color: #E7D6FF;
+$body-bg: $primary-color;
+$body-font-color: $secondary-color;
 $body-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
@@ -36,13 +44,6 @@ $body-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 //// Text direction settings
 
 // $text-direction: ltr;
-
-//// Colors
-
-$primary-color: #AA6EFF;
-$secondary-color: #8E3EFE;
-// $alert-color: #c60f13;
-// $success-color: #5da423;
 
 //// Make sure border radius matches unless we want it different.
 
@@ -117,7 +118,7 @@ $secondary-color: #8E3EFE;
 $header-font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 // $header-font-weight: bold;
 // $header-font-style: normal;
-$header-font-color: #8E3EFE;
+$header-font-color: $secondary-color;
 // $header-line-height: 1.4;
 // $header-top-margin: .2em;
 // $header-bottom-margin: .5em;

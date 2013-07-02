@@ -13,18 +13,18 @@
   font-style: normal;
 }
 
-/* line 20, ../sass/custom.scss */
+/* line 22, ../sass/custom.scss */
 a, a:hover, a:active, a:focus {
-  color: #E7D6FF;
+  color: #8e3efe;
 }
 
-/* line 24, ../sass/custom.scss */
+/* line 26, ../sass/custom.scss */
 aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
-  background: #8E3EFE;
-  color: #E7D6FF;
+  background: #8e3efe;
+  color: #e7d6ff;
 }
 
-/* line 29, ../sass/custom.scss */
+/* line 31, ../sass/custom.scss */
 .vcard {
   border: 0px solid #DDDDDD;
   display: inline-block;
@@ -37,14 +37,14 @@ h1 small {
   font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 }
 */
-/* line 42, ../sass/custom.scss */
+/* line 44, ../sass/custom.scss */
 .image {
   position: relative;
   width: 100%;
   /* for IE 6 */
 }
 
-/* line 47, ../sass/custom.scss */
+/* line 49, ../sass/custom.scss */
 .overImage {
   position: absolute;
   bottom: 10px;
@@ -52,7 +52,7 @@ h1 small {
   width: 90%;
 }
 
-/* line 54, ../sass/custom.scss */
+/* line 56, ../sass/custom.scss */
 .overImage span {
   /* color: white; */
   font-family: 'SailRegular', "Times New Roman", Times, serif;
@@ -65,32 +65,32 @@ h1 small {
   padding: 10px;
 }
 
-/* line 65, ../sass/custom.scss */
+/* line 67, ../sass/custom.scss */
 .blue {
   color: LightBlue;
 }
 
-/* line 68, ../sass/custom.scss */
+/* line 70, ../sass/custom.scss */
 .green {
   color: LightGreen;
 }
 
-/* line 71, ../sass/custom.scss */
+/* line 73, ../sass/custom.scss */
 .yellow {
   color: yellow;
 }
 
-/* line 74, ../sass/custom.scss */
+/* line 76, ../sass/custom.scss */
 .white {
   color: white;
 }
 
-/* line 77, ../sass/custom.scss */
+/* line 79, ../sass/custom.scss */
 .orangeRed {
   color: OrangeRed;
 }
 
-/* line 80, ../sass/custom.scss */
+/* line 82, ../sass/custom.scss */
 .violet {
   color: violet;
 }
