@@ -28,6 +28,10 @@ aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
   color: $tertiary-color;
 }
 
+ul, ol, dl {
+  margin-left: emCalc(18px);
+}
+
 .vcard {
     border: 0px solid #DDDDDD;
     display: inline-block;

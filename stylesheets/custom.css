@@ -25,6 +25,11 @@ aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
 }
 
 /* line 31, ../sass/custom.scss */
+ul, ol, dl {
+  margin-left: 1.125em;
+}
+
+/* line 35, ../sass/custom.scss */
 .vcard {
   border: 0px solid #DDDDDD;
   display: inline-block;
@@ -37,14 +42,14 @@ h1 small {
   font-family: "GabrielaRegular", "Times New Roman", Times, serif;
 }
 */
-/* line 44, ../sass/custom.scss */
+/* line 48, ../sass/custom.scss */
 .image {
   position: relative;
   width: 100%;
   /* for IE 6 */
 }
 
-/* line 49, ../sass/custom.scss */
+/* line 53, ../sass/custom.scss */
 .overImage {
   position: absolute;
   bottom: 10px;
@@ -52,7 +57,7 @@ h1 small {
   width: 90%;
 }
 
-/* line 56, ../sass/custom.scss */
+/* line 60, ../sass/custom.scss */
 .overImage span {
   /* color: white; */
   font-family: 'SailRegular', "Times New Roman", Times, serif;
@@ -65,32 +70,32 @@ h1 small {
   padding: 10px;
 }
 
-/* line 67, ../sass/custom.scss */
+/* line 71, ../sass/custom.scss */
 .blue {
   color: LightBlue;
 }
 
-/* line 70, ../sass/custom.scss */
+/* line 74, ../sass/custom.scss */
 .green {
   color: LightGreen;
 }
 
-/* line 73, ../sass/custom.scss */
+/* line 77, ../sass/custom.scss */
 .yellow {
   color: yellow;
 }
 
-/* line 76, ../sass/custom.scss */
+/* line 80, ../sass/custom.scss */
 .white {
   color: white;
 }
 
-/* line 79, ../sass/custom.scss */
+/* line 83, ../sass/custom.scss */
 .orangeRed {
   color: OrangeRed;
 }
 
-/* line 82, ../sass/custom.scss */
+/* line 86, ../sass/custom.scss */
 .violet {
   color: violet;
 }

@@ -44,7 +44,7 @@
 
       <h5>Inhalt</h5>
       <ul class="side-nav">
-        <li><a href="was-ist-kinesiologie.html">Was ist Kinesiologie</a></li>
+        <li><a href="#">Was ist Kinesiologie</a></li>
         <li><a href="#">Was ist integrative Kinesiologie</a></li>
         <li><a href="#">Für wen/ für was ist Kinesiologie</a></li>
         <li><a href="#">Kinesiologie für Kinder</a></li>
@@ -69,76 +69,13 @@
 
     <!-- Main Blog Content -->
     <div class="large-9 columns" role="content">
-
-      <!-- Using only the large-block-grid -->
-      <ul class="large-block-grid-2 small-block-grid-1">
-        <li>
-          <div class="image">
-            <img src="img/front/14 Seinen eigenen Weg gehen_Schrift Blau.resized.jpg">
-            <h3 class="overImage blue">
-              <span>Seinen eigenen Weg gehen</span>
-            </h3>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="img/front/16 Verwurzelt zu sein_schrift gruen.resized.jpg">
-            <h3 class="overImage green">
-              <span>Verwurzelt sein</span>
-            </h3>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="img/front/27 In seiner Mitte zu sein_schrift gelb.resized.jpg">
-            <h3 class="overImage yellow">
-              <span>In seiner Mitte sein</span>
-            </h3>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="img/front/73 Sich frei fuehlen_schrift orangerot.resized.jpg">
-            <h3 class="overImage orangeRed">
-              <span>Sich frei fühlen</span>
-            </h3>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="img/front/79 In sich aufzubluehen_schrift gruen.resized.jpg">
-            <h3 class="overImage green">
-              <span>In sich aufzublühen</span>
-            </h3>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="img/front/03 Das Negative loszulassen_schrift weiss.resized.jpg">
-            <h3 class="overImage white">
-              <span>Das Negative loszulassen</span>
-            </h3>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="img/front/20 Sein Leben selbst gestalten_schrift gelb.resized.jpg">
-            <h3 class="overImage yellow">
-              <span>Sein Leben selbst gestalten</span>
-            </h3>
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="img/front/82 An sich glauben_schrift violett.resized.jpg">
-            <h3 class="overImage violet">
-              <span>An sich glauben</span>
-            </h3>
-          </div>
-        </li>
-      </ul>
-
+      <h1></h1>
+      <p></p>
+      <h2></h2>
+      <p></p>
     </div>
+
+    <!-- End Main Blog Content -->
 
     <!-- End Main Content -->
 

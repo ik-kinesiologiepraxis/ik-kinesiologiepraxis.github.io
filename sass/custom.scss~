@@ -25,7 +25,11 @@ a, a:hover, a:active, a:focus {
 
 aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
   background: $secondary-color;
-  color: #E7D6FF;
+  color: $tertiary-color;
+}
+
+ul, ol, dl {
+  margin-left: emCalc(20px);
 }
 
 .vcard {
