@@ -69,27 +69,27 @@
 
     <!-- Main Blog Content -->
     <div class="large-9 columns" role="content">
-      <h1>Was ist Kinesiologie</h1>
-      <p>Die Kinesiologie ist der Alternativmedizin zugeordnet und dient der Gesundheitsförderung und -erhaltung. Sie verbindet östliche Heilkunst mit moderner westlicher Medizin. Sie wirkt sich positiv auf unser körperliches, geistiges und seelisches Wohlbefinden aus (Präventivmedizin). Kinesiologie löst Blockaden des Energieflusses im Körper (Seele und Geist) und aktiviert dadurch die Selbstheilungskräfte. Mit Hilfe des Muskeltests lassen sich Blockaden und akute Probleme aufspüren und Wege finden, diese aufzulösen.
-<b>Stress und Krisen am Arbeitsplatz, zu Hause oder in der Schule können wir nicht entgehen. Wir können lernen, besser damit umzugehen.</b></p>
-
-      <h2>Bestandteile einer Kinesiologiesitzung</h2>
-      <ul class="disc">
-        <li>Gesprächsführung (psychologischer Anteil):<br>Das Gespräch wird auf der psychologischen Ebene so geführt, dass der Klient selbst erkennt, wo er jetzt steht und welche individuellen Ziele er hat, um sie in der Sitzung umzusetzen.</li><br>
-        <li>Muskeltest:<br>
-Der Muskeltest ist ein Biofeedback des Körpers (Gedanken und Energie). Er kann im Unterbewusstsein zwischen blockierter und fliessender Energie unterscheiden.</li><br>
-        <li>Techniken (physiologischer Anteil):<br>
-          <ul>
-            <li>Akupressur bestimmter Reflexpunkte</li>
-            <li>Chiropraktik</li>
-            <li>Ernährung</li>
-            <li>5 chinesische Elemente</li>
-            <li>Luo-Punkte</li>
-            <li>Energiebahnen</li>
-            <li>usw.</li>
-          </ul>
-        </li>
+      <h1>Adresse / Kontakt / Öffnungszeiten</h1>
+      <p>
+      <ul class="vcard hide-for-small">
+        <li class="fn">Sara Haab</li>
+        <li class="company">IK-Kinesiologiepraxis</li>
+        <li class="street-address">Strandbadstrasse 15 / Seegüetli</li>
+        <li><span class="zip">8810</span>&nbsp;<span class="state">Horgen</span></li><br>
+        <li><span class="phoneDescription">Tel:</span>&nbsp;<span class="phone">079 / 710 11 12</span></li><br>
+        <li class="web"><a href="http://www.ik-kinesiologiepraxis.ch/">www.ik-kinesiologiepraxis.ch</a></li>
+        <li><a href="mailto:info@ik-kinesiologiepraxis.ch">info@ik&#8209;kinesiologiepraxis.ch</a></li>
       </ul>
+      </p>
+      <h2>Routenplan</h2>
+      <!-- Responsive Einbindung von Google-Maps gemäss http://blog.kulturbanause.de/2012/10/google-maps-im-responsive-webdesign/ -->
+      <div class="responsiveContainer">
+        <!-- iframe-Code von Google Maps -->
+        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Strandbadstrasse+15,+8810+Horgen&amp;aq=&amp;sll=47.252132,8.593474&amp;sspn=0.300153,0.693512&amp;ie=UTF8&amp;hq=&amp;hnear=Strandbadstrasse+15,+8810+Horgen,+Z%C3%BCrich&amp;ll=47.25415,8.619179&amp;spn=0.001172,0.002709&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.ch/maps?f=q&amp;source=embed&amp;hl=de&amp;geocode=&amp;q=Strandbadstrasse+15,+8810+Horgen&amp;aq=&amp;sll=47.252132,8.593474&amp;sspn=0.300153,0.693512&amp;ie=UTF8&amp;hq=&amp;hnear=Strandbadstrasse+15,+8810+Horgen,+Z%C3%BCrich&amp;ll=47.25415,8.619179&amp;spn=0.001172,0.002709&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">Grössere Kartenansicht</a></small>
+      </div>
+
+      <h2>Öffnungszeiten</h2>
+      <p>Freitag Vormittag sowie Termine nach telefonischer Vereinbarung.</p>
     </div>
 
     <!-- End Main Blog Content -->
