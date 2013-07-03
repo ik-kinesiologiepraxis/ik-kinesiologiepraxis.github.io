@@ -45,12 +45,12 @@
       <h5>Inhalt</h5>
       <ul class="side-nav">
         <li><a href="was-ist-kinesiologie.html">Was ist Kinesiologie</a></li>
-        <li><a href="#">Was ist integrative Kinesiologie</a></li>
-        <li><a href="#">Für wen/ für was ist Kinesiologie</a></li>
-        <li><a href="#">Kinesiologie für Kinder</a></li>
-        <li><a href="#">Über mich</a></li>
-        <li><a href="#">Lage/ Öffnungszeiten</a></li>
-        <li><a href="#">Kosten/ Krankenkassenanerkennung</a></li>
+        <li><a href="was-ist-integrative-kinesiologie.html">Was ist integrative Kinesiologie</a></li>
+        <li><a href="fuer-wen-fuer-was-ist-kinesiologie.html">Für wen/ für was ist Kinesiologie</a></li>
+        <li><a href="kinesiologie-fuer-kinder.html">Kinesiologie für Kinder</a></li>
+        <li><a href="ueber-mich.html">Über mich</a></li>
+        <li><a href="lage-oeffnungszeiten.html">Lage/ Öffnungszeiten</a></li>
+        <li><a href="kosten-krankenkassenanerkennung.html">Kosten/ Krankenkassenanerkennung</a></li>
       </ul>
       <h5 class="hide-for-small">Kontatk</h5>
       <ul class="vcard hide-for-small">
