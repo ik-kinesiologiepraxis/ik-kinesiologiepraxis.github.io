@@ -17,6 +17,18 @@
 
   <script src="javascripts/vendor/custom.modernizr.js"></script>
 
+<!-- Google Analytics Tracking Code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42226837-1', 'ik-kinesiologiepraxis.ch');
+  ga('send', 'pageview');
+
+</script>
+<!-- END Google Analytics Tracking Code -->
 </head>
 <body>
 <!-- Nav Bar -->
@@ -50,7 +62,7 @@
         <li><a href="kinesiologie-fuer-kinder.html">Kinesiologie für Kinder</a></li>
         <li><a href="ueber-mich.html">Über mich</a></li>
         <li><a href="lage-oeffnungszeiten.html">Lage/ Öffnungszeiten</a></li>
-        <li><a href="kosten-krankenkassenanerkennung.html">Kosten/ Krankenkassenanerkennung</a></li>
+        <li><a href="kosten-krankenkassenanerkennung.html">Kosten/ Kran&shy;ken&shy;kas&shy;sen&shy;an&shy;er&shy;ken&shy;nung</a></li>
       </ul>
       <h5 class="hide-for-small">Kontatk</h5>
       <ul class="vcard hide-for-small">
@@ -116,7 +128,7 @@
           <div class="image">
             <img src="img/front/03 Das Negative loszulassen_schrift weiss.resized.jpg">
             <h3 class="overImage white">
-              <span>Das Negative loszulassen</span>
+              <span>Das Negative loslassen</span>
             </h3>
           </div>
         </li>

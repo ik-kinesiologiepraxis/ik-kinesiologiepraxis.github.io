@@ -64,10 +64,15 @@ h1 small {
    letter-spacing: -1px;
    line-height: 1.67;
    background: rgb(0, 0, 0); /* fallback color */
-   background: rgba(0, 0, 0, 0.6);
+   background: rgba(0, 0, 0, 0.5);
    padding: 10px; 
 }
 
+/* bilder links floaten */
+img.left {
+  float:left;
+  margin-right:1.5em
+}
 
 /* COLORS FOR IMAGES ON FRONTPAGE */
 .blue {

@@ -64,10 +64,15 @@ h1 small {
    letter-spacing: -1px;
    line-height: 1.67;
    background: rgb(0, 0, 0); /* fallback color */
-   background: rgba(0, 0, 0, 0.6);
+   background: rgba(0, 0, 0, 0.5);
    padding: 10px; 
 }
 
+/*  */
+img.left {
+  float:left;
+  margin-right:1.5em
+}
 
 /* COLORS FOR IMAGES ON FRONTPAGE */
 .blue {
@@ -89,7 +94,7 @@ h1 small {
   color:violet;
 }
 
-/*  */
+/* Responsive Einbindung von Google-Maps gemäss http://blog.kulturbanause.de/2012/10/google-maps-im-responsive-webdesign/ */
 .responsiveContainer {
   position: relative;
   padding-bottom: 56%;

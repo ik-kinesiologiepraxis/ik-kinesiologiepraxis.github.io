@@ -67,43 +67,50 @@ h1 small {
   line-height: 1.67;
   background: black;
   /* fallback color */
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.5);
   padding: 10px;
 }
 
+/* bilder links floaten */
+/* line 72, ../sass/custom.scss */
+img.left {
+  float: left;
+  margin-right: 1.5em;
+}
+
 /* COLORS FOR IMAGES ON FRONTPAGE */
-/* line 73, ../sass/custom.scss */
+/* line 78, ../sass/custom.scss */
 .blue {
   color: LightBlue;
 }
 
-/* line 76, ../sass/custom.scss */
+/* line 81, ../sass/custom.scss */
 .green {
   color: LightGreen;
 }
 
-/* line 79, ../sass/custom.scss */
+/* line 84, ../sass/custom.scss */
 .yellow {
   color: yellow;
 }
 
-/* line 82, ../sass/custom.scss */
+/* line 87, ../sass/custom.scss */
 .white {
   color: white;
 }
 
-/* line 85, ../sass/custom.scss */
+/* line 90, ../sass/custom.scss */
 .orangeRed {
   color: OrangeRed;
 }
 
-/* line 88, ../sass/custom.scss */
+/* line 93, ../sass/custom.scss */
 .violet {
   color: violet;
 }
 
 /* Responsive Einbindung von Google-Maps gemäss http://blog.kulturbanause.de/2012/10/google-maps-im-responsive-webdesign/ */
-/* line 93, ../sass/custom.scss */
+/* line 98, ../sass/custom.scss */
 .responsiveContainer {
   position: relative;
   padding-bottom: 56%;
@@ -111,7 +118,7 @@ h1 small {
   overflow: hidden;
 }
 
-/* line 100, ../sass/custom.scss */
+/* line 105, ../sass/custom.scss */
 .responsiveContainer iframe {
   position: absolute;
   top: 0;
