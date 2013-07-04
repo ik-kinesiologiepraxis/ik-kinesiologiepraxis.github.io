@@ -68,7 +68,7 @@ h1 small {
    padding: 10px; 
 }
 
-/*  */
+/* bilder links floaten */
 img.left {
   float:left;
   margin-right:1.5em
@@ -109,3 +109,22 @@ img.left {
   width: 100%;
   height: 100%;
 }
+
+/* Responsive Einbindung von Diversen Containern gemäss http://blog.kulturbanause.de/2012/10/google-maps-im-responsive-webdesign/ */
+.responsiveContainerVarious {
+  position: relative;
+  padding-bottom: 56%;
+  height: 0;
+  overflow: hidden;
+}
+
+.responsiveContainerVarious iframe,
+.responsiveContainerVarious object,
+.responsiveContainerVarious embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;	
+}
+
