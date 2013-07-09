@@ -31,6 +31,16 @@
 <!-- END Google Analytics Tracking Code -->
 </head>
 <body>
+<!-- Facebook Like Button Code -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- END Facebook Like Button Code -->
 <!-- Nav Bar -->
   <div class="row">
     <div class="large-12 columns">
@@ -62,7 +72,7 @@
         <li><a href="kinesiologie-fuer-kinder.html">Kinesiologie für Kinder</a></li>
         <li><a href="ueber-mich.html">Über mich</a></li>
         <li><a href="lage-oeffnungszeiten.html">Lage/ Öffnungszeiten</a></li>
-        <li><a href="kosten-krankenkassenanerkennung.html">Kosten/ Krankenkassenanerkennung</a></li>
+        <li><a href="kosten-krankenkassenanerkennung.html">Kosten/ Kran&shy;ken&shy;kas&shy;sen&shy;an&shy;er&shy;ken&shy;nung</a></li>
       </ul>
       <h5 class="hide-for-small">Kontatk</h5>
       <ul class="vcard hide-for-small">

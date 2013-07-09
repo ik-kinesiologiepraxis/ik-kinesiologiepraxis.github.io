@@ -31,6 +31,16 @@
 <!-- END Google Analytics Tracking Code -->
 </head>
 <body>
+<!-- Facebook Like Button Code -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- END Facebook Like Button Code -->
 <!-- Nav Bar -->
   <div class="row">
     <div class="large-12 columns">
@@ -82,7 +92,7 @@
     <!-- Main Blog Content -->
     <div class="large-9 columns" role="content">
       <h1>Was ist Kinesiologie</h1>
-      <p><img class="left" src="img/articles/Zu Text Seite 1.300.jpg" width="300" title="foo" >Die Kinesiologie ist der Alternativmedizin zugeordnet und dient der Gesundheitsförderung und -erhaltung. Sie verbindet östliche Heilkunst mit moderner westlicher Medizin. Sie wirkt sich positiv auf unser körperliches, geistiges und seelisches Wohlbefinden aus (Präventivmedizin). Kinesiologie löst Blockaden des Energieflusses im Körper (Seele und Geist) und aktiviert dadurch die Selbstheilungskräfte. Mit Hilfe des Muskeltests lassen sich Blockaden und akute Probleme aufspüren und Wege finden, diese aufzulösen.
+      <p><img class="left" src="img/articles/Zu Text Seite 1.300.jpg" width="300" title="Was ist Kinesiologie" >Die Kinesiologie ist der Alternativmedizin zugeordnet und dient der Gesundheitsförderung und -erhaltung. Sie verbindet östliche Heilkunst mit moderner westlicher Medizin. Sie wirkt sich positiv auf unser körperliches, geistiges und seelisches Wohlbefinden aus (Präventivmedizin). Kinesiologie löst Blockaden des Energieflusses im Körper (Seele und Geist) und aktiviert dadurch die Selbstheilungskräfte. Mit Hilfe des Muskeltests lassen sich Blockaden und akute Probleme aufspüren und Wege finden, diese aufzulösen.
 <b>Stress und Krisen am Arbeitsplatz, zu Hause oder in der Schule können wir nicht entgehen. Wir können lernen, besser damit umzugehen.</b></p>
 
       <h2>Bestandteile einer Kinesiologiesitzung</h2>
