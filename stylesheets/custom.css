@@ -1,4 +1,9 @@
 @charset "UTF-8";
+/* line 1, ../sass/custom.scss */
+html {
+  overflow-y: scroll;
+}
+
 @font-face {
   font-family: 'SailRegular';
   src: url("fonts/sali/Sail-Regular-webfont.eot");
@@ -6,31 +11,44 @@
   font-weight: normal;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'GabrielaRegular';
   src: url("fonts/gabriela/Gabriela-Regular.woff") format("woff"), url("fonts/gabriela/Gabriela-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
-
-/* line 22, ../sass/custom.scss */
-a, a:hover, a:active, a:focus {
-  color: #8e3efe;
-}
-
 /* line 26, ../sass/custom.scss */
-aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
-  background: #8e3efe;
-  color: #e7d6ff;
+a, a:hover, a:active, a:focus {
+  color: #8E3EFE;
 }
 
-/* line 31, ../sass/custom.scss */
+/* line 30, ../sass/custom.scss */
+aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
+  background: #8E3EFE;
+  color: #E7D6FF;
+}
+
+/* line 35, ../sass/custom.scss */
+html {
+  background: #BB8AFF;
+}
+
+/* line 39, ../sass/custom.scss */
 ul, ol, dl {
   margin-left: 1.125em;
 }
 
-/* line 35, ../sass/custom.scss */
+/* line 43, ../sass/custom.scss */
+.logo {
+  padding-bottom: 10px;
+}
+
+/* line 47, ../sass/custom.scss */
+.side-nav > li {
+  margin-bottom: 12px;
+}
+
+/* line 51, ../sass/custom.scss */
 .vcard {
   border: 0px solid #DDDDDD;
   display: inline-block;
@@ -38,19 +56,14 @@ ul, ol, dl {
   padding: 0.625em 0;
 }
 
-/*
-h1 small {
-  font-family: "GabrielaRegular", "Times New Roman", Times, serif;
-}
-*/
-/* line 48, ../sass/custom.scss */
+/* line 58, ../sass/custom.scss */
 .image {
   position: relative;
   width: 100%;
   /* for IE 6 */
 }
 
-/* line 53, ../sass/custom.scss */
+/* line 63, ../sass/custom.scss */
 .overImage {
   position: absolute;
   bottom: 10px;
@@ -58,7 +71,7 @@ h1 small {
   width: 90%;
 }
 
-/* line 60, ../sass/custom.scss */
+/* line 70, ../sass/custom.scss */
 .overImage span {
   /* color: white; */
   font-family: 'SailRegular', "Times New Roman", Times, serif;
@@ -72,45 +85,45 @@ h1 small {
 }
 
 /* bilder links floaten */
-/* line 72, ../sass/custom.scss */
+/* line 82, ../sass/custom.scss */
 img.left {
   float: left;
   margin-right: 1.5em;
 }
 
 /* COLORS FOR IMAGES ON FRONTPAGE */
-/* line 78, ../sass/custom.scss */
+/* line 88, ../sass/custom.scss */
 .blue {
   color: LightBlue;
 }
 
-/* line 81, ../sass/custom.scss */
+/* line 91, ../sass/custom.scss */
 .green {
   color: LightGreen;
 }
 
-/* line 84, ../sass/custom.scss */
+/* line 94, ../sass/custom.scss */
 .yellow {
   color: yellow;
 }
 
-/* line 87, ../sass/custom.scss */
+/* line 97, ../sass/custom.scss */
 .white {
   color: white;
 }
 
-/* line 90, ../sass/custom.scss */
+/* line 100, ../sass/custom.scss */
 .orangeRed {
   color: OrangeRed;
 }
 
-/* line 93, ../sass/custom.scss */
+/* line 103, ../sass/custom.scss */
 .violet {
   color: violet;
 }
 
 /* Responsive Einbindung von Google-Maps gemäss http://blog.kulturbanause.de/2012/10/google-maps-im-responsive-webdesign/ */
-/* line 98, ../sass/custom.scss */
+/* line 108, ../sass/custom.scss */
 .responsiveContainer {
   position: relative;
   padding-bottom: 56%;
@@ -118,7 +131,7 @@ img.left {
   overflow: hidden;
 }
 
-/* line 105, ../sass/custom.scss */
+/* line 115, ../sass/custom.scss */
 .responsiveContainer iframe {
   position: absolute;
   top: 0;
