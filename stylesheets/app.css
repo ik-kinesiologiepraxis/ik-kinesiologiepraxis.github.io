@@ -23,7 +23,7 @@ body {
 
 body {
   background: #fff;
-  color: #8E3EFE;
+  color: #494e52;
   padding: 0;
   margin: 0;
   font-family: "GabrielaRegular", "Times New Roman", Times, serif;
@@ -1182,7 +1182,7 @@ abbr,
 acronym {
   text-transform: uppercase;
   font-size: 90%;
-  color: #8E3EFE;
+  color: #494e52;
   border-bottom: 1px dotted #ddd;
   cursor: help; }
 
@@ -4287,7 +4287,7 @@ ul.pagination {
     font-size: 0.875em; }
     .side-nav li a {
       display: block;
-      color: #BB8AFF; }
+      color: #8E3EFE; }
     .side-nav li.active > a:first-child {
       color: #4d4d4d;
       font-weight: bold; }

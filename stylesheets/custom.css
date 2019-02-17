@@ -16,16 +16,9 @@ html {
 a, a:hover, a:active, a:focus {
   color: #8E3EFE; }
 
-/*.side-nav {
-  list-style-type: none;
-  list-style-position: outside;
-}*/
 aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
   background: #fff;
   color: #8E3EFE; }
-
-html {
-  background: #BB8AFF; }
 
 ul, ol, dl {
   margin-left: 1.125em; }

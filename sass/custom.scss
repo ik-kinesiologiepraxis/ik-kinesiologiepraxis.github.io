@@ -27,19 +27,10 @@ a, a:hover, a:active, a:focus {
   color: $secondary-color;
 }
 
-/*.side-nav {
-  list-style-type: none;
-  list-style-position: outside;
-}*/
-
 
 aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
   background: #fff;
   color: $secondary-color;
-}
-
-html {
-  background: #BB8AFF;
 }
 
 ul, ol, dl {
