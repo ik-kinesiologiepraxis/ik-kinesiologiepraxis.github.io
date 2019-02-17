@@ -27,9 +27,15 @@ a, a:hover, a:active, a:focus {
   color: $secondary-color;
 }
 
+/*.side-nav {
+  list-style-type: none;
+  list-style-position: outside;
+}*/
+
+
 aside, aside a, aside a:hover, aside a:active, aside a:focus, .side-nav li a {
-  background: $secondary-color;
-  color: $tertiary-color;
+  background: #fff;
+  color: $secondary-color;
 }
 
 html {
@@ -118,4 +124,10 @@ img.left {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+/* redesign early 2019 */
+
+h1 small {
+  color: $secondary-color;
 }
